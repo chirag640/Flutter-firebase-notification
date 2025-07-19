@@ -47,5 +47,14 @@ app.*.map.json
 
 # firebase-messaging related
 # Firebase Cloud Messaging (FCM) configuration files
-/assets/service_account.json
-/android/app/google-services.json
+assets/service_account.json
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+web/firebase-messaging-sw.js
+web/google-services.json
+macos/Runner/GoogleService-Info.plist
+linux/Runner/GoogleService-Info.plist
+windows/Runner/GoogleService-Info.plist
+**/GoogleService-Info.plist
+**/google-services.json
+**/service_account.json
