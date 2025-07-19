@@ -47,5 +47,4 @@ app.*.map.json
 
 # firebase-messaging related
 # Firebase Cloud Messaging (FCM) configuration files
-assets/google-services.json
-assets/GoogleService-Info.plist
+/assets/service_account.json
